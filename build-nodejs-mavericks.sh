@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Before running this, you must modify the macports-libcxx port llvm 18 instead of llvm 11, then install it.
+# Before running this, you must modify the macports-libcxx port to use llvm 18 instead of llvm 11, then install it.
 
 # Configuration
 NODE_VERSION="24.6.0"
